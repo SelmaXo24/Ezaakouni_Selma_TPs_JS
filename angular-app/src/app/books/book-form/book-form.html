@@ -1,0 +1,7 @@
+<h2>{{ bookId ? 'Edit Book' : 'Add Book' }}</h2>
+
+<form [formGroup]="bookForm" (ngSubmit)="submit()">
+  <input type="text" placeholder="Title" formControlName="title"><br><br>
+  <input type="text" placeholder="Author" formControlName="author"><br><br>
+  <button type="submit">Save</button>
+</form>

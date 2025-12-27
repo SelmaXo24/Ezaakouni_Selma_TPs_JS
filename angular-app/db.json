@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "Clean ",
+      "author": "Robert C. Martin",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Design Patterns",
+      "author": "GoF"
+    },
+    {
+      "id": "a7c6",
+      "title": "savoir dire Non",
+      "author": "daniel steell"
+    },
+    {
+      "id": "1db2",
+      "title": "test",
+      "author": "admin"
+    }
+  ]
+}
